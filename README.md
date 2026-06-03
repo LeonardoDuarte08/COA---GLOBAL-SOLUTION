@@ -99,7 +99,7 @@ Quando uma condição crítica é identificada:
 ## Circuito
 
 ```text
-/images/circuito-completo.png
+circuito-completo.png
 ```
 ## Tecnologias Utilizadas
 
