@@ -98,9 +98,8 @@ Quando uma condição crítica é identificada:
 
 ## Circuito
 
-```text
-circuito-completo.png
-```
+![Circuito Completo](circuito-completo.png)
+---
 ## Tecnologias Utilizadas
 
 - Arduino Uno
