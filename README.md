@@ -98,7 +98,7 @@ Quando uma condição crítica é identificada:
 
 ## Circuito
 
-![Circuito Completo](circuito-completo.png)
+![Circuito Completo](images/circuito-completo.png)
 ---
 ## Tecnologias Utilizadas
 
