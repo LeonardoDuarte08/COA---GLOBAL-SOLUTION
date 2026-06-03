@@ -2,8 +2,6 @@
 
 # Sistema IoT para Monitoramento de Cápsula Espacial
 
----
-
 ## Integrantes
 
 - Leonardo Gabriel Sá Duarte - RM 569029
