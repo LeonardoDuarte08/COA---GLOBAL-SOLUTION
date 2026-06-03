@@ -2,6 +2,15 @@
 
 # Sistema IoT para Monitoramento de Cápsula Espacial
 
+---
+
+## Integrantes
+
+- Leonardo Gabriel Sá Duarte - RM 569029
+- Enzo Vieira de Nadai - RM 569985
+
+---
+
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido como parte da Global Solution da disciplina Computer Organization and Architecture.
@@ -113,13 +122,6 @@ INSERIR LINK DO YOUTUBE
 ## Simulação no Tinkercad
 
 https://www.tinkercad.com/things/33Dsxe93oew/editel?returnTo=%2Fdashboard&sharecode=Rd3HWKA_FkZgdwFympcHKZlpllKAeu8o8sVxIML7VQA
-
----
-
-## Integrantes
-
-- Leonardo Gabriel Sá Duarte - RM 569029
-- Enzo Vieira de Nadai - RM 569985
 
 ---
 
